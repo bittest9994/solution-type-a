@@ -24,6 +24,7 @@ public class Main {
 		int count = 0;
 		
 		/* 코드를 완성합니다. */
+		System.out.println("");
 
 		return count;
 	}
