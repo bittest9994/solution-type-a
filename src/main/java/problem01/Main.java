@@ -1,7 +1,9 @@
 package problem01;
 
 public class Main {
-	//	수정
+	// 수정
+	// 풀이
+	
 	public static void main(String[] args) {
 		for( int i = 1; i <= 100; i++ ) {
 			int count = countClap(i);
